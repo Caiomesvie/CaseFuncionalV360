@@ -5,9 +5,11 @@ O Rich picture é uma ferramenta visual onde a sua ideia esboçar as funcionalid
 ## Rich Picture
 
 <center>
-figura 1: Rich Picture
-
- <img alt="Rich Picture" src="assets/RichPicture.jpg" width="2000">
+Figura 1: Rich Picture
+<br>
+<br>
+ 
+ <img alt="Rich Picture" src="assets/RichPicture.jpg" width="750">
 
 fonte: [Caio Mesquita](https://github.com/Caiomesvie)
 
