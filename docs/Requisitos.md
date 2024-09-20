@@ -16,7 +16,7 @@ Tabela 1: Requisitos Elicitados.
 |-|-|
 |RQ01| A aplicação deve ter uma agenda com os dados da entrega, data e hora, em formato de tabela|
 |RQ02| A agenda deve ter um filtro com 4 parâmetros: dia, semana, mês e ano|
-|RQ03| A agenda deve ter uma notificaçãp de problemas com a entrega|
+|RQ03| A agenda deve ter uma notificação de problemas com a entrega|
 |RQ04| As entregas devem apresentar um status, sendo eles: Falha, em trânsito, entregue|
 |RQ05| Cada compra nova realizada deve ter um sinal de ênfase indicando que ela não foi vizualizada pelo usuário|
 |RQ06| A aplicação deve ter uma opção de Reportar problemas com entregas que possam levar a alteração de logísitica |
