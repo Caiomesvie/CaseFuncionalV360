@@ -7,7 +7,7 @@ O Rich picture é uma ferramenta visual onde a sua ideia esboçar as funcionalid
 ## O Rich Picture
 
 <center>
-Figura 1: Rich Picture
+Figura 1: Rich Picture.
 <br>
 <br>
  
