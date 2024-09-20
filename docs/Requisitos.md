@@ -6,7 +6,7 @@ Neste documento estão os requisitos elicitados levando em conta o relato dos us
 
 ## Requisitos
 
-Segue abaixo a tabela com os requisitos coletados. Para vias de simplificação, eles não foram separados em funcionais e não-funcionais.
+Segue abaixo a tabela com os requisitos coletados. Para vias de simplificação, eles não foram separados em funcionais e não-funcionais dado o escopo reduzido do projeto.
 
 <center>
 
